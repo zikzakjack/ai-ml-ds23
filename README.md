@@ -1,5 +1,6 @@
 # ai-ml-ds23
 
 - Python
-  - [Solution for Python_Basics_2 Exercise](python/Python_Basics_2_Assignment.ipynb)
+  - [Solution for Python Assignment #1](python/Python_Assignment_1.ipynb)
+  - [Solution for Python Assignment #2](python/Python_Assignment_2.ipynb)
 - NumPy
